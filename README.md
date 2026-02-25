@@ -1,8 +1,10 @@
-## 👋 About Me
+## 👋 About Me  
 
-I build AI-powered systems that turn fragmented information into structured, scalable workflows.
+I build AI-powered systems that transform fragmented information and manual workflows into structured, scalable automation solutions.
 
-My focus is not just on shipping tools, but on designing automation that reduces manual work, improves clarity, and drives measurable operational impact.
+Rather than simply shipping tools, I focus on architecting intelligent workflows by integrating structured data, retrieval systems, and role-based AI agents to reduce manual work, improve clarity, and drive measurable operational impact. My work sits at the intersection of AI, workflow automation, and real-world business execution.
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/cindy-lin-2b0a60228/) to learn more about my background and ongoing projects.
 <br>
 
 ## 🚀 Selected Projects
