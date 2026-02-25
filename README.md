@@ -22,10 +22,10 @@ Designed and built an interactive web platform that transforms complex governmen
 
 ---
 
-### 🤖 Government Subsidy AI Agent  
+### 🤖 Government Funding AI Agent  
 **Vector-Powered RAG System | Conversational AI Assistant**
 
-Built an AI-powered assistant that transforms large volumes of complex government subsidy documents into a searchable, conversational knowledge system.
+Built an AI-powered assistant that transforms large volumes of complex government funding documents into a searchable, conversational knowledge system.
 
 - Processed and structured fragmented policy data into a vector store for semantic retrieval  
 - Implemented a retrieval-augmented generation (RAG) workflow to enable accurate, context-aware responses  
