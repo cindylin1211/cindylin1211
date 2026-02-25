@@ -1,16 +1,62 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**cindylin1211/cindylin1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI-powered systems that turn fragmented information into structured, scalable workflows.
 
-Here are some ideas to get you started:
+My focus is not just shipping tools but designing automation that reduces manual execution, improves clarity, and creates measurable operational impact.
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Selected Projects
+
+### 🏛 Government Subsidy Interactive Platform  
+**Web Application | Information Architecture | UX Design**
+
+Designed and built an interactive web platform that simplifies complex government subsidy programs for SMEs.
+
+- Transformed static policy documents into structured decision flows  
+- Reduced information search friction through guided navigation logic  
+- Designed for non-technical business users  
+- Focused on clarity, accessibility, and real-world usability  
+
+🔗 [View Project](https://main.dvehy4yswkfrc.amplifyapp.com/)
+
+---
+
+### 🤖 Government Subsidy AI Agent  
+**AI Agent | Prompt Architecture | Knowledge Structuring**
+
+Built an AI-powered assistant that interprets fragmented policy data and provides structured guidance on eligibility and application logic.
+
+- Converted unstructured policy content into machine-readable logic  
+- Designed prompt systems to handle incomplete and ambiguous inputs  
+- Built structured response frameworks to simulate a domain consultant  
+- Focused on reducing manual consultation workload  
+
+🔗 [View Project](https://main.d2bjhq7oy5zs66.amplifyapp.com/)
+
+---
+
+### ✍️ AI Sales Post Generator  
+**AI Workflow Automation | Content Structuring Tool**
+
+Developed an AI tool that transforms raw bullet points into structured, persuasive LinkedIn-style sales content.
+
+- Converts fragmented internal notes into publication-ready posts  
+- Designed tone control and structure optimization logic  
+- Streamlines marketing and sales content workflows  
+- Significantly reduces manual drafting time  
+
+🔗 [View Project](https://main.d13mlxkw5c9wiy.amplifyapp.com/)
+
+---
+
+### 📊 Course Performance Scoreboard System  
+**Internal System | Data Tracking | Automation**
+
+Built a performance tracking system for a client training program.
+
+- Automated scoring logic and progress tracking  
+- Increased visibility into participant performance  
+- Reduced manual reporting overhead  
+- Designed for operational efficiency and scalability  
+
+🔗 [View Project](https://main.d1hxwldvska4rq.amplifyapp.com/)
