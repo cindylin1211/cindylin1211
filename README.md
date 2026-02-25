@@ -7,56 +7,62 @@ My focus is not just on shipping tools, but on designing automation that reduces
 
 ## 🚀 Selected Projects
 
-### 🏛 Government Subsidy Interactive Platform  
-**Web Application | Information Architecture | UX Design**
+### 🏛 Government Funding Interactive Platform  
+**Policy Workflow System | Integrated Admin Management Layer**
 
-Designed and built an interactive web platform that simplifies complex government subsidy programs for SMEs.
+Designed and built an interactive web platform that transforms complex government subsidy policies into structured, accessible workflows for sales teams and customers.
 
-- Transformed static policy documents into structured decision flows  
-- Reduced information search friction through guided navigation logic  
-- Designed for non-technical business users  
-- Focused on clarity, accessibility, and real-world usability  
+- Organized large volumes of subsidy information using hierarchical tagging and categorization, enabling users to quickly identify programs that match their eligibility criteria  
+- Converted static policy documents into structured decision flows with guided navigation logic  
+- Reduced information search friction for non-technical business users through intuitive filtering and conditional routing  
+- Implemented a dedicated admin route (/admin/) that allows subsidy program managers to create, edit, or delete program information directly via the web interface — without modifying code or accessing the database  
+- Improved operational efficiency by separating user-facing workflows from content management, enabling scalable and maintainable updates
 
 🔗 [View Project](https://main.dvehy4yswkfrc.amplifyapp.com/)
 
 ---
 
 ### 🤖 Government Subsidy AI Agent  
-**AI Agent | Prompt Architecture | Knowledge Structuring**
+**Vector-Powered RAG System | Conversational AI Assistant**
 
-Built an AI-powered assistant that interprets fragmented policy data and provides structured guidance on eligibility and application logic.
+Built an AI-powered assistant that transforms large volumes of complex government subsidy documents into a searchable, conversational knowledge system.
 
-- Converted unstructured policy content into machine-readable logic  
-- Designed prompt systems to handle incomplete and ambiguous inputs  
-- Built structured response frameworks to simulate a domain consultant  
-- Focused on reducing manual consultation workload  
+- Processed and structured fragmented policy data into a vector store for semantic retrieval  
+- Implemented a retrieval-augmented generation (RAG) workflow to enable accurate, context-aware responses  
+- Enabled users to interact with the system via natural language to surface detailed policy clauses without manually reading lengthy documents  
+- Designed the agent to operate 24/7, significantly reducing manual consultation time and improving accessibility
 
 🔗 [View Project](https://main.d2bjhq7oy5zs66.amplifyapp.com/)
 
 ---
 
 ### ✍️ AI Sales Post Generator  
-**AI Workflow Automation | Content Structuring Tool**
+**Role-Based AI Agent | LLM API Integration | Multi-Platform Publishing Workflow**
 
-Developed an AI-powered workflow that transforms fragmented bullet points into structured, high-conversion social selling content across Instagram, Threads, and LinkedIn.
+Engineered a backend AI agent system that transforms fragmented user bullet points into structured, high-conversion social selling content across Instagram, Threads, and LinkedIn.
 
-- Converts fragmented internal notes into publication-ready posts  
-- Designed tone control and structure optimization logic  
-- Streamlines marketing and sales content workflows  
-- Significantly reduces manual drafting time  
+- Integrated LLM APIs to power a role-based “Social Media Manager” AI agent that generates complete sales posts from minimal user input  
+- Designed prompt orchestration logic to control tone, structure, language (EN/中文), and platform-specific optimization  
+- Built a configurable interface allowing users to select publishing platform, writing style, and output language  
+- Enabled one-click publishing or copy-to-platform functionality to streamline multi-channel distribution  
+- Reduced content drafting and publishing time from manual composition to ~2 minutes, even with minimal input (e.g., a single bullet point)  
+- Designed to support modern sales workflows where social selling complements calls, emails, and events for lead nurturing
 
 🔗 [View Project](https://main.d13mlxkw5c9wiy.amplifyapp.com/)
 
 ---
 
 ### 📊 Course Performance Scoreboard System  
-**Internal System | Data Tracking | Automation**
+Multi-Database Backend System | Real-Time Scoring Engine | Gamified Performance Dashboard
 
-Built a performance tracking system for a client training program.
+Architected and implemented a performance tracking system for a real client training program, replacing spreadsheet-based workflows with a structured, interactive web application.
 
-- Automated scoring logic and progress tracking  
-- Increased visibility into participant performance  
-- Reduced manual reporting overhead  
-- Designed for operational efficiency and scalability  
+- Integrated three backend databases to centralize participant, course, and scoring data  
+- Designed and implemented custom group and individual scoring logic, including configurable bonus and deduction mechanisms  
+- Built a date-based input system allowing users to log daily course points with historical tracking and audit visibility  
+- Developed a dynamic leaderboard page with real-time ranking updates for both teams and individuals to support employee motivation initiatives  
+- Replaced manual spreadsheet processes, significantly reducing time spent on data entry, lookup, and reporting  
+- Enhanced user experience with intuitive UI design and micro-interactions (e.g., animated point adjustments) to improve engagement  
+- Delivered as a production system tailored to the client’s branding and operational requirements 
 
 🔗 [View Project](https://main.d1hxwldvska4rq.amplifyapp.com/)
