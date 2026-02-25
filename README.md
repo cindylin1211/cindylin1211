@@ -38,7 +38,7 @@ Built an AI-powered assistant that interprets fragmented policy data and provide
 ### ✍️ AI Sales Post Generator  
 **AI Workflow Automation | Content Structuring Tool**
 
-Developed an AI tool that transforms raw bullet points into structured, persuasive LinkedIn-style sales content.
+Developed an AI-powered workflow that transforms fragmented bullet points into structured, high-conversion social selling content across Instagram, Threads, and LinkedIn.
 
 - Converts fragmented internal notes into publication-ready posts  
 - Designed tone control and structure optimization logic  
