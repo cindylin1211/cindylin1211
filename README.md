@@ -2,7 +2,7 @@
 
 I build AI-powered systems that turn fragmented information into structured, scalable workflows.
 
-My focus is not just shipping tools but designing automation that reduces manual execution, improves clarity, and creates measurable operational impact.
+My focus is not just on shipping tools, but on designing automation that reduces manual work, improves clarity, and drives measurable operational impact.
 <br>
 
 ## 🚀 Selected Projects
