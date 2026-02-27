@@ -68,3 +68,4 @@ Architected and implemented a performance tracking system for a real client trai
 - Delivered as a production system tailored to the client’s branding and operational requirements 
 
 🔗 [View Project](https://main.d1hxwldvska4rq.amplifyapp.com/)
+Access is restricted due to client confidentiality and data privacy agreements.
