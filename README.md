@@ -17,7 +17,7 @@ Designed and built an interactive web platform that transforms complex governmen
 - Organized large volumes of subsidy information using hierarchical tagging and categorization, enabling users to quickly identify programs that match their eligibility criteria  
 - Converted static policy documents into structured decision flows with guided navigation logic  
 - Reduced information search friction for non-technical business users through intuitive filtering and conditional routing  
-- Implemented a dedicated admin route that allows subsidy program managers to create, edit, or delete program information directly via the web interface — without modifying code or accessing the database  
+- Implemented a dedicated admin route that allows subsidy program managers to create, edit, or delete program information directly via the web interface without modifying code or accessing the database  
 - Improved operational efficiency by separating user-facing workflows from content management, enabling scalable and maintainable updates
 
 🔗 [View Project](https://main.dvehy4yswkfrc.amplifyapp.com/)
