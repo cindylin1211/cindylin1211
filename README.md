@@ -67,5 +67,7 @@ Architected and implemented a performance tracking system for a real client trai
 - Enhanced user experience with intuitive UI design and micro-interactions (e.g., animated point adjustments) to improve engagement  
 - Delivered as a production system tailored to the client’s branding and operational requirements 
 
-🔗 [View Project](https://main.d1hxwldvska4rq.amplifyapp.com/)
-Access is restricted due to client confidentiality and data privacy agreements.
+🔒 Production Deployment  
+
+This production system is not publicly accessible due to client confidentiality and data privacy constraints.  
+Architecture and implementation details can be discussed upon request.
