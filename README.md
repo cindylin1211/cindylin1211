@@ -41,7 +41,7 @@ Architecture and implementation details can be discussed upon request.
 
 ---
 
-### 💰 Taiwan Stock Screener (KD-Based Quant Signal Tool)
+### 💵 Taiwan Stock Screener (KD-Based Quant Signal Tool)
 **Production-Deployed Stack | Zero-Cost Infrastructure | Systematic Quant Signal Engine**
 
 Engineered and deployed a production-grade Taiwan equity screening system built on stochastic oscillator (KD) signal logic, designed as a systematic entry point into quantitative trading using a fully open-source, zero-cost technology stack.
