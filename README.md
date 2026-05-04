@@ -42,18 +42,19 @@ Architecture and implementation details can be discussed upon request.
 ---
 
 ### 💰 Taiwan Stock Screener (KD-Based Quant Signal Tool)
-**Open-Source Stack | Zero-Cost Infrastructure | Entry-Level Quant Exploration**
+**Production-Deployed Stack | Zero-Cost Infrastructure | Systematic Quant Signal Engine**
 
-Built a lightweight Taiwan stock screening system focused on KD indicator signals, designed as an entry point into quantitative trading using fully open-source and free-tier tools with zero infrastructure cost.
+Engineered and deployed a production-grade Taiwan equity screening system built on stochastic oscillator (KD) signal logic, designed as a systematic entry point into quantitative trading using a fully open-source, zero-cost technology stack.
 
-- Architected a minimal screening engine that filters Taiwan equities based on KD thresholds, reducing traditional multi-factor complexity into a single-rule decision system
-- Leveraged only open-source libraries and free services (no paid APIs, no SaaS dependencies), running entirely on local environment / free hosting setup
-- Designed the workflow from PRD → AI-assisted code generation → GitHub version control → Lovable UI prototyping, enabling rapid iteration without engineering overhead
-- Integrated data fetching and transformation logic to process market data and output KD-based buy/watch signals in near real-time
-- Built a clean, UI-driven interface hosted locally to visualize filtered stock lists, prioritizing speed and interpretability over feature-heavy financial dashboards
-- System design intentionally avoids paid financial data subscriptions, demonstrating a fully zero-cost architecture for retail-level quant experimentation
+- Architected a rule-based screening engine that ingests live TWSE market data, computes Stochastic %K/%D crossover signals, and filters Taiwan-listed equities against configurable KD threshold parameters, reducing traditional multi-factor screening complexity into a single-indicator, high-interpretability decision framework
+- Built the full-stack application using exclusively open-source libraries and free-tier services with zero paid API dependencies or SaaS subscriptions, demonstrating a viable zero-cost architecture for retail-level quantitative experimentation
+- Designed and executed an end-to-end product development workflow: PRD specification → Lovable UI prototyping → GitHub-based version control → AI-assisted code generation → Vercel production deployment, enabling rapid iteration cycles without dedicated engineering overhead
+- Implemented automated data ingestion and transformation pipelines that fetch, clean, and process real-time market data, computing KD indicators and outputting actionable buy/watch signal classifications with near real-time latency
+- Deployed the application to a production cloud environment using Vercel for frontend hosting, Supabase as the backend-as-a-service (BaaS) layer for data persistence and API management, and GitHub Actions for CI/CD automation, delivering a fully automated build-test-deploy pipeline triggered on every commit
+- Built a clean, responsive production UI for visualizing filtered stock lists, prioritizing signal clarity, execution speed, and interpretability over feature-heavy financial terminal interfaces
+- System architecture intentionally eliminates all paid financial data subscriptions and proprietary tooling, serving as a proof-of-concept for a fully democratized, zero-infrastructure-cost quant experimentation platform accessible to retail investors and early-stage quant practitioners
 
-This project sparked deeper exploration into quantitative trading systems, signal-based investing logic, and systematic strategy design beyond discretionary investing
+This project catalyzed deeper exploration into systematic trading strategy design, signal-based alpha generation, backtesting frameworks, and the transition from discretionary to rules-based, data-driven investing methodologies.
 
 🔗 [View Project](https://stock-scout-mocha.vercel.app/)
 
