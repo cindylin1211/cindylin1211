@@ -34,7 +34,28 @@ Built an AI-powered assistant that transforms large volumes of complex governmen
 - Enabled users to interact with the system via natural language to surface detailed policy clauses without manually reading lengthy documents  
 - Designed the agent to operate 24/7, significantly reducing manual consultation time and improving accessibility
 
-🔗 [View Project](https://main.d2bjhq7oy5zs66.amplifyapp.com/)
+🔒 Production Deployment  
+
+This production system is not publicly accessible due to confidentiality and data privacy constraints.  
+Architecture and implementation details can be discussed upon request.
+
+---
+
+### 💰 Taiwan Stock Screener (KD-Based Quant Signal Tool)
+**Open-Source Stack | Zero-Cost Infrastructure | Entry-Level Quant Exploration**
+
+Built a lightweight Taiwan stock screening system focused on KD indicator signals, designed as an entry point into quantitative trading using fully open-source and free-tier tools with zero infrastructure cost.
+
+-Architected a minimal screening engine that filters Taiwan equities based on KD thresholds, reducing traditional multi-factor complexity into a single-rule decision system
+-Leveraged only open-source libraries and free services (no paid APIs, no SaaS dependencies), running entirely on local environment / free hosting setup
+-Designed the workflow from PRD → AI-assisted code generation → GitHub version control → Lovable UI prototyping, enabling rapid iteration without engineering overhead
+-Integrated data fetching and transformation logic to process market data and output KD-based buy/watch signals in near real-time
+-Built a clean, UI-driven interface hosted locally to visualize filtered stock lists, prioritizing speed and interpretability over feature-heavy financial dashboards
+-System design intentionally avoids paid financial data subscriptions, demonstrating a fully zero-cost architecture for retail-level quant experimentation
+
+This project sparked deeper exploration into quantitative trading systems, signal-based investing logic, and systematic strategy design beyond discretionary investing
+
+🔗 [View Project](https://stock-scout-mocha.vercel.app/)
 
 ---
 
@@ -55,7 +76,7 @@ Engineered a backend AI agent system that transforms fragmented user bullet poin
 ---
 
 ### 📊 Course Performance Scoreboard System  
-Multi-Database Backend System | Real-Time Scoring Engine | Gamified Performance Dashboard
+**Multi-Database Backend System | Real-Time Scoring Engine | Gamified Performance Dashboard**
 
 Architected and implemented a performance tracking system for a real client training program, replacing spreadsheet-based workflows with a structured, interactive web application.
 
