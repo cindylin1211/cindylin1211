@@ -46,12 +46,12 @@ Architecture and implementation details can be discussed upon request.
 
 Built a lightweight Taiwan stock screening system focused on KD indicator signals, designed as an entry point into quantitative trading using fully open-source and free-tier tools with zero infrastructure cost.
 
--Architected a minimal screening engine that filters Taiwan equities based on KD thresholds, reducing traditional multi-factor complexity into a single-rule decision system
--Leveraged only open-source libraries and free services (no paid APIs, no SaaS dependencies), running entirely on local environment / free hosting setup
--Designed the workflow from PRD → AI-assisted code generation → GitHub version control → Lovable UI prototyping, enabling rapid iteration without engineering overhead
--Integrated data fetching and transformation logic to process market data and output KD-based buy/watch signals in near real-time
--Built a clean, UI-driven interface hosted locally to visualize filtered stock lists, prioritizing speed and interpretability over feature-heavy financial dashboards
--System design intentionally avoids paid financial data subscriptions, demonstrating a fully zero-cost architecture for retail-level quant experimentation
+- Architected a minimal screening engine that filters Taiwan equities based on KD thresholds, reducing traditional multi-factor complexity into a single-rule decision system
+- Leveraged only open-source libraries and free services (no paid APIs, no SaaS dependencies), running entirely on local environment / free hosting setup
+- Designed the workflow from PRD → AI-assisted code generation → GitHub version control → Lovable UI prototyping, enabling rapid iteration without engineering overhead
+- Integrated data fetching and transformation logic to process market data and output KD-based buy/watch signals in near real-time
+- Built a clean, UI-driven interface hosted locally to visualize filtered stock lists, prioritizing speed and interpretability over feature-heavy financial dashboards
+- System design intentionally avoids paid financial data subscriptions, demonstrating a fully zero-cost architecture for retail-level quant experimentation
 
 This project sparked deeper exploration into quantitative trading systems, signal-based investing logic, and systematic strategy design beyond discretionary investing
 
