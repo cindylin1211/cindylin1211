@@ -10,7 +10,7 @@ I spent 15+ months in Sales Development at **AWS** and a **San Francisco food-te
 
 ## 🚀 What I've built
 
-### Work projects (code is private: built for employers and clients)
+### Work projects (built for employers and clients; details available on request)
 
 | Project | What it does | Impact |
 |---|---|---|
